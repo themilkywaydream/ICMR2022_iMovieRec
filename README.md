@@ -5,6 +5,8 @@ Movie repository is to supplement the paper "paper title".
 
 
 ## Overview of our framework
+<img src="https://user-images.githubusercontent.com/43632309/105988718-68619380-60e3-11eb-9eaa-740b75eb82dc.png"  width="920" height="258">
+
 ![KakaoTalk_20210127_210346831_01](https://user-images.githubusercontent.com/43632309/105988718-68619380-60e3-11eb-9eaa-740b75eb82dc.png)
 
 ![KakaoTalk_20210127_210346831_02](https://user-images.githubusercontent.com/43632309/105988788-87f8bc00-60e3-11eb-87e1-3861f5649026.png)

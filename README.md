@@ -11,7 +11,7 @@ Movie repository is to supplement the paper "paper title".
 
 ## Clone
 ```
-git clone ~anonyous url~
+git clone ~anonymous url~
 ```
 
 ## Dataset

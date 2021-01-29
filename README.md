@@ -15,11 +15,9 @@ git clone ~anonymous url~
 ```
 
 ## Dataset
-Movielens 100K
-https://grouplens.org/datasets/movielens/100k/
+MovieLens 100K : https://grouplens.org/datasets/movielens/100k/
 
-Movielens 1M
-https://grouplens.org/datasets/movielens/1m/
+MovieLens 1M : https://grouplens.org/datasets/movielens/1m/
 
 ## Model Description
 * graphrec_image.py : this file provides training Graphrec model adding image features.

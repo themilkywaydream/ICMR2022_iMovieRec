@@ -20,8 +20,8 @@ MovieLens 100K : https://grouplens.org/datasets/movielens/100k/
 MovieLens 1M : https://grouplens.org/datasets/movielens/1m/
 
 ## Model Description
-* graphrec_image.py : this file provides training Graphrec model adding image features.
-* image_processing.py : this file provides an extraction of the image features in the Graphrec by inserting them into the CNN.
+* graphrec_image.py : this file provides training GraphRec model adding image features.
+* image_processing.py : this file provides an extraction of the image features in the GraphRec by inserting them into the CNN.
 * models_mf.py : this file provides a set of basic matrix factorization models.
 * preprocess.py : this file proivdes conducting label encoding of user and item columns.
 * train_test_mf.py : this file provides training and testing for basic matrix factorization models.

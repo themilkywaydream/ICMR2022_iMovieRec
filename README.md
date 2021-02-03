@@ -11,7 +11,7 @@ Among the recommendation models, the collaborative filtering recommendation syst
 
 ## Clone
 ```
-git clone ~anonymous url~
+git clone https://bit.ly/2YEix9V
 ```
 
 ## Dataset

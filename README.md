@@ -6,9 +6,9 @@ Among the recommendation models, the collaborative filtering recommendation syst
 
 ## Overview of our framework
 <img src="https://user-images.githubusercontent.com/43632309/105990739-43baeb00-60e6-11eb-8117-a12310ccc655.png" width="480" height="303">
-<img src="https://user-images.githubusercontent.com/43632309/105991102-bdeb6f80-60e6-11eb-9f44-ec4419df7760.png" width="515" height="167">
+Figure 1 : iMovieRec model
 <img src="https://user-images.githubusercontent.com/43632309/105991281-effcd180-60e6-11eb-8cd4-b2420b0329c4.png" width="613" height="168">
-
+Figure 2 : Image-feature embedding to traditional matrix factorization models
 ## Clone
 ```
 git clone https://bit.ly/2YEix9V
